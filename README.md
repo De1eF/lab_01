@@ -1,2 +1,2 @@
 # lab_01
-Budkevych Nikita of FIT 1-8
+Nikita Budkevych 1-8 FIT
